@@ -1,0 +1,32 @@
+[
+  {
+    "username": "dami97",
+    "email": "dami97@gmail.com",
+    "password": "fjhjksjahh2u_497",
+    "role": "admin"
+  },
+  {
+    "username": "Jennifer33",
+    "email": "jennifer@gmail.com",
+    "password": "jennifer23",
+    "role": "reader"
+  },
+  {
+    "username": "MacmillianPublishers",
+    "email": "macmillianpublishers@gmail.com",
+    "password": "macmillian_nigeriae_79",
+    "role": "publisher"
+  },
+  {
+    "username": "Timmy99",
+    "email": "timmy@gmail.com",
+    "password": "vcnaskuyt_970",
+    "role": "reader"
+  },
+  {
+    "username": "UnibenPress",
+    "email": "unibenpress@gmail.com",
+    "password": "fghsagfdascfh_993",
+    "role": "publisher"
+  }
+]
